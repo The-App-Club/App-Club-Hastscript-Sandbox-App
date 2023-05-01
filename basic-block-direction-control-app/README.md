@@ -1,3 +1,6 @@
+- Demo
+  - [demo](https://codesandbox.io/p/sandbox/recursing-david-trmgg3?file=%2FREADME.md)
+
 - Reference
   - [6-tips-for-tailwind-css-development-with-resources](https://dev.to/joserfelix/6-tips-for-tailwind-css-development-with-resources-33i4)
   - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
